@@ -1,6 +1,4 @@
 ﻿//----------------------------------------------------------------------------------
-// Microsoft - Urban Insights Proof of Concept for File Repository
-//
 // Copyright (c) Microsoft Corporation. All rights reserved.
 //
 // THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, 
